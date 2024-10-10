@@ -10,10 +10,4 @@ public class Room
 		get{ return bounds[0]; }
 		set{ bounds[0] = value; }
 	}
-	
-	public int Max
-	{
-		get{ return bounds[1]; }
-		set{ bounds[1] = value; }
-	}
 }

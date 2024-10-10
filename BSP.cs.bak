@@ -7,7 +7,7 @@ public class BSP
 	
 	public Field Generate(int s)
 	{
-		Field field = new int[s];
+		Field field = new int[s*s];
 		
 		return field;
 	}
